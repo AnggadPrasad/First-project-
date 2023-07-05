@@ -21,6 +21,6 @@
   <p><em>This text is italicized.</em></p>
   
   <h3>An Image</h3>
-  <img src="https://example.com/image.jpg" alt="Example Image">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbk2zUQFFXlz2JUe7ZdWsxj4jnB_TZNhk2A&usqp=CAU">
 </body>
 </html>
